@@ -1,0 +1,25 @@
+.main-login {
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.main-login h1 {
+    font-size: 20px;
+}
+
+.main-login p {
+    margin: 20px 0 10px;
+}
+
+.main-login input {
+    height: 30px;
+    padding: 3px 10px;
+}
+
+.main-login button {
+    width: 60px;
+    height: 30px;
+}
