@@ -27,7 +27,8 @@ import Rooms from "./rooms/Rooms";
 
 import { searchArrayObject } from "./utils/arrayObjectFind";
 
-const ENDPOINT = "http://localhost:5000";
+// const ENDPOINT = "http://localhost:5000";
+const ENDPOINT = "http://128.199.7.47:5000";
 let socket;
 // const rooms = ["#general", "#family"];
 let initialRoom = "#general";
